@@ -5,4 +5,4 @@
 
  Interesante sesión por parte de *Jesús López*, muy dinámica.
 
-![hack](img/DSC_1910.jpg)
+![hack](/img/DSC_1910.jpg)
