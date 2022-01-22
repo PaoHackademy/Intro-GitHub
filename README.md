@@ -5,4 +5,4 @@
 
  Interesante sesión por parte de *Jesús López*, muy dinámica.
 
-![dogs](./img/DSC_1910.jpg)
+![dogs](img/DSC_1910.JPG)
